@@ -1,6 +1,6 @@
 {
   "name": "EnemySpawnConfig",
-  "version_number": "1.0.2",
+  "version_number": "1.0.3",
   "website_url": "https://github.com/maxe-repo-mods/EnemySpawnConfig",
   "description": "Configure enemy spawn amounts. Global and per-difficulty multipliers, plus peaceful mode.",
   "dependencies": [
